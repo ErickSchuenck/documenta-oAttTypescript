@@ -11,9 +11,8 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
   
 
 -  **Erro ao acessar propriedades indefinidas**: Introduziu checagens mais rigorosas, prevenindo acessos a propriedades em `undefined` ou `null`.
+
 ![image](https://github.com/user-attachments/assets/6db3c7cd-9c36-4a0b-8b40-ca7456c2fed3)
-
-
 
 -  **Funções de mapeamento e inferência em `extends`**: Melhorou a inferência de tipos, especialmente útil ao trabalhar com tipos genéricos complexos.
 
