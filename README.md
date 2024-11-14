@@ -66,6 +66,13 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **Parâmetros opcionais em inferência**: Melhor gerenciamento de parâmetros opcionais, facilitando funções mais flexíveis.
 
+![image](https://github.com/user-attachments/assets/057ba27f-ba9d-427e-bea4-8afd31063f8b)
+![image](https://github.com/user-attachments/assets/1390943d-9a34-4f73-8cec-b266607a6d4c)
+
+*Com a atualização, o TypeScript infere mais inteligentemente que age é um parâmetro opcional e pode ser tratado diretamente como `number` | `undefined` sem verificações adicionais*
+
+
+
 -  **Tipagem mais flexível em métodos de array**: Suporte melhorado para métodos como `reduce`, especialmente útil em contextos complexos de array.
 
 -  **`const` em locais de variáveis e inferência de tipos**: Inferência de `const` como tipos literais mais precisa, trazendo mais controle para componentes React.
