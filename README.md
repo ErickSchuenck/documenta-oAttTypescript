@@ -42,8 +42,6 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **Detecção de `undefined` em templates de string**: Agora, ao interpolar variáveis em templates de string, ele alerta se variáveis podem ser `undefined`.
 
--  **Suporte a `exactOptionalPropertyTypes`**: Essa opção permite definir propriedades opcionais com mais precisão, útil para melhorar a tipagem em DTOs e interfaces no NestJS.
-
   
 
 ## TypeScript 5.0
