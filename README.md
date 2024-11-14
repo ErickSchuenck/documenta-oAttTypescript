@@ -19,7 +19,7 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
   
 
--  **Tipos condicionais para JSX**: Agora, a tipagem em JSX lida melhor com tipos complexos, sendo ideal para otimizar interfaces no React. Exemplo: O uso de never no caso abaixo força o TypeScript a emitir um erro se borderColor ou backgroundColor for passado com o valor de variant incorreto, ajudando a evitar erros e garantindo que o componente receba somente as props válidas.
+-  **Tipos condicionais para JSX**: Agora, a tipagem em JSX lida melhor com tipos complexos, sendo ideal para otimizar interfaces no React. **Exemplo**: O uso de never no caso abaixo força o TypeScript a emitir um erro se borderColor ou backgroundColor for passado com o valor de variant incorreto, ajudando a evitar erros e garantindo que o componente receba somente as props válidas.
 
 
 
