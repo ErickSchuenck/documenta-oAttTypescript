@@ -74,6 +74,11 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 
 -  **Tipagem mais flexível em métodos de array**: Suporte melhorado para métodos como `reduce`, especialmente útil em contextos complexos de array.
+  *Antes do TypeScript 5.1, ao usar métodos de array como reduce, o TypeScript tinha dificuldades em inferir corretamente o tipo do acumulador (o valor que vai sendo "acumulado" ao longo das iterações). Em muitas situações, você precisaria especificar explicitamente o tipo do acumulador, especialmente quando estava lidando com tipos complexos ou quando o tipo do acumulador dependia do tipo do array.*
+![image](https://github.com/user-attachments/assets/56fce46f-a72d-4359-a235-691ccde0e074)
+
+
+
 
 -  **`const` em locais de variáveis e inferência de tipos**: Inferência de `const` como tipos literais mais precisa, trazendo mais controle para componentes React.
 
