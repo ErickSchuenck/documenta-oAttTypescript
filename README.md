@@ -15,10 +15,6 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 ![image](https://github.com/user-attachments/assets/6db3c7cd-9c36-4a0b-8b40-ca7456c2fed3)
 
 
--  **Análise de control flow mais inteligente**: Identificação melhorada em condições para evitar verificações redundantes de tipos.
-
-  
-
 ## TypeScript 4.7
 
   
