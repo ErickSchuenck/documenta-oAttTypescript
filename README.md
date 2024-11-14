@@ -19,8 +19,6 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
   
 
--  **Módulos ECMAScript nativos**: Suporte para `ESM` em Node.js com o uso de `moduleResolution: node16` e `nodenext`.
-
 -  **Tipos condicionais para JSX**: Agora, a tipagem em JSX lida melhor com tipos complexos, sendo ideal para otimizar interfaces no React.
 
 -  **Suporte a `import type` em Contextos de Arquivo CommonJS**: Simplifica o uso de tipos apenas onde necessário.
