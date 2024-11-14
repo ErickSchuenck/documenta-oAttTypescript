@@ -82,6 +82,9 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **`const` em locais de variáveis e inferência de tipos**: Inferência de `const` como tipos literais mais precisa, trazendo mais controle para componentes React.
 
+![image](https://github.com/user-attachments/assets/163aacf6-3424-4572-9ac1-63d9db86eef1)
+*Agora, greeting tem o tipo literal "Hello World", e não apenas string. Isso significa que, em vez de permitir qualquer string, o TypeScript agora restringe o valor de greeting ao exato valor "Hello World".*
+
 -  **Suporte a Tipos de Tuplas em `satisfies`**: Agora é possível tipar arrays com tuplas, ajudando a especificar dados com precisão.
 
   
