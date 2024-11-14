@@ -85,6 +85,7 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **Suporte a Tipos de Tuplas em `satisfies`**: Agora é possível tipar arrays com tuplas, ajudando a especificar dados com precisão.
 *Uma tupla é um tipo de array em que os elementos têm tipos específicos e em posições definidas. Ao contrário de um array tradicional, onde os elementos podem ser de tipos diferentes em qualquer posição, as tuplas têm a vantagem de poderem ser tipadas com diferentes tipos para cada índice.*
+
 ![image](https://github.com/user-attachments/assets/2dab6870-eeed-471a-ad3f-90d7ca886785)
 
   
