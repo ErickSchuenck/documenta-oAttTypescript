@@ -49,6 +49,9 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
   
 
 -  **Modifiers `const` e `type` em parâmetros de tipo**: Adiciona flexibilidade em tipos imutáveis e parametrizações, permitindo `readonly` em inferências de tipos.
+-  
+![image](https://github.com/user-attachments/assets/b975a935-966a-422c-83b0-d85ce637ed72)
+
 
 -  **Extensões de Decorators**: Melhoria para suporte oficial a decoradores, ótimo para definir decoradores no NestJS.
 
