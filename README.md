@@ -30,6 +30,7 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 
 ![image](https://github.com/user-attachments/assets/22039e13-b2ab-419c-ba2e-4d0b228e21d4)
+![image](https://github.com/user-attachments/assets/4c90fd49-ae9c-47c6-aa97-5c99d5fb1f76)
 
 
 -  **Suporte a `import type` em Contextos de Arquivo CommonJS**: Simplifica o uso de tipos apenas onde necessário.
