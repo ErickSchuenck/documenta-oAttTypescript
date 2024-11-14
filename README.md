@@ -21,6 +21,10 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **Tipos condicionais para JSX**: Agora, a tipagem em JSX lida melhor com tipos complexos, sendo ideal para otimizar interfaces no React.
 
+
+![image](https://github.com/user-attachments/assets/22039e13-b2ab-419c-ba2e-4d0b228e21d4)
+
+
 -  **Suporte a `import type` em Contextos de Arquivo CommonJS**: Simplifica o uso de tipos apenas onde necessário.
 
   
