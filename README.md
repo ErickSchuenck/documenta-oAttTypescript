@@ -1,4 +1,4 @@
-# Atualização TypeScript 4.5 para 5.6: Resumo de Mudanças e Novos Recursos
+# Atualização TypeScript 4.5 para 5.6: Resumo de Novos Recursos
 
   
 
