@@ -53,9 +53,10 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 ![image](https://github.com/user-attachments/assets/b975a935-966a-422c-83b0-d85ce637ed72)
 
 
--  **Extensões de Decorators**: Melhoria para suporte oficial a decoradores, ótimo para definir decoradores no NestJS.
+-  **Suporte a `satisfies`**: Uma palavra-chave nova que garante que um valor cumpre o tipo exato sem forçar a tipagem, o que pode melhorar a legibilidade em validações de tipos. Exemplo de uso do operador:
 
--  **Suporte a `satisfies`**: Uma palavra-chave nova que garante que um valor cumpre o tipo exato sem forçar a tipagem, o que pode melhorar a legibilidade em validações de tipos.
+![image](https://github.com/user-attachments/assets/6dd0c3a6-2242-401b-b70f-89fd5d679539)
+![image](https://github.com/user-attachments/assets/3bac10c5-e84e-49e2-9c8c-d2e18782598a)
 
   
 
