@@ -75,10 +75,8 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 
 -  **Tipagem mais flexível em métodos de array**: Suporte melhorado para métodos como `reduce`, especialmente útil em contextos complexos de array.
   *Antes do TypeScript 5.1, ao usar métodos de array como reduce, o TypeScript tinha dificuldades em inferir corretamente o tipo do acumulador (o valor que vai sendo "acumulado" ao longo das iterações). Em muitas situações, você precisaria especificar explicitamente o tipo do acumulador, especialmente quando estava lidando com tipos complexos ou quando o tipo do acumulador dependia do tipo do array.*
+   
 ![image](https://github.com/user-attachments/assets/56fce46f-a72d-4359-a235-691ccde0e074)
-
-
-
 
 -  **`const` em locais de variáveis e inferência de tipos**: Inferência de `const` como tipos literais mais precisa, trazendo mais controle para componentes React.
 
@@ -86,6 +84,8 @@ Atualização do TypeScript na aplicação NestJS e React, de `"typescript": "^4
 *Agora, greeting tem o tipo literal "Hello World", e não apenas string. Isso significa que, em vez de permitir qualquer string, o TypeScript agora restringe o valor de greeting ao exato valor "Hello World".*
 
 -  **Suporte a Tipos de Tuplas em `satisfies`**: Agora é possível tipar arrays com tuplas, ajudando a especificar dados com precisão.
+*Uma tupla é um tipo de array em que os elementos têm tipos específicos e em posições definidas. Ao contrário de um array tradicional, onde os elementos podem ser de tipos diferentes em qualquer posição, as tuplas têm a vantagem de poderem ser tipadas com diferentes tipos para cada índice.*
+![image](https://github.com/user-attachments/assets/2dab6870-eeed-471a-ad3f-90d7ca886785)
 
   
 
